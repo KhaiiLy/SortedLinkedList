@@ -16,8 +16,9 @@ git clone https://github.com/KhaiiLy/SortedLinkedList.git
 ## Features
 - Automatically sorts elements as they are inserted.
 - Supports both ascending and descending order.
-- Can be used with any object type that implements Comparable or with a custom Comparator.
-- To compare string elemens ignoring case sensitivity use CaseInsensitiveStringComparator class in mentioned folder above.
+- Specifically implemented to work with int and String types, but can be extended to support other types that implement Comparable or with a custom Comparator.
+- Works with collections of type Collection<T> that can be iterated over to retrieve elements for insertion into the linked list.
+- To compare string elements ignoring case sensitivity use CaseInsensitiveStringComparator class in mentioned folder above.
 
 ## Methods
 Here are some of implemented methods that can be use with the SortedLinkedList:
