@@ -31,7 +31,7 @@ public class SortedLinkedList<T extends Comparable<T>> {
     }
 
     /**
-     * Construct an empty list and set comparing method
+     * Construct an empty list and set comparing method.
      *
      * To compare string case-insensitive use
      * CaseInsensitiveStringComparator custom class
