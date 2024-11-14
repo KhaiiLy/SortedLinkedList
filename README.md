@@ -10,7 +10,7 @@ This project is still in development. While the core functionality should work a
 To use SortedLinkedList in your project, you can either clone this repository or download the source code directly. Add sortedlinkedlist folder to your project.
 
 ```bash
-git clone https://github.com/yourusername/SortedLinkedList.git
+git clone https://github.com/KhaiiLy/SortedLinkedList.git
 ```
 
 ## Features
