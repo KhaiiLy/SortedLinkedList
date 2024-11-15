@@ -11,7 +11,7 @@ public class SortedLinkedList<T extends Comparable<T>> {
     private int size;
     private Comparator<T> comparator = Comparator.naturalOrder();
 
-    private class Node<T> {
+    private static class Node<T> {
         private T value;
         private Node<T> next;
         private Node<T> prev;
